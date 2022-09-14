@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Heaven Klair</h1>
 <h3 align="center">A Graduate student at University of California, Berkeley pursuing Master's in Information and Data Science</h3>
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1rm4CS76nIWo5tV1MQRwoxUTaaAULI-Us/view?usp=sharing">
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenklair&label=Profile%20views&color=0e75b6&style=flat" alt="heavenklair" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heavenklair" alt="heavenklair" /></a> </p>
 
 - 🔭 I’m actively looking for **job opporutnities in Data Science**
 
-- 🌱 I’m currently learning **Applied Machine Learning**
+- 🌱 I’m currently learning **object oriented programming in Python**
+
+- 💬 Ask me about **Python, Kubernetes, Docker**
 
 - 📫 How to reach me **https://www.linkedin.com/in/heavenklair/**
 
