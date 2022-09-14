@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heaven Klair</h1>
 <h3 align="center">A Graduate student at University of California, Berkeley pursuing Master's in Information and Data Science</h3>
+<img align="right" alt="University" width="400" src="https://www.ischool.berkeley.edu/programs" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenklair&label=Profile%20views&color=0e75b6&style=flat" alt="heavenklair" /> </p>
 
