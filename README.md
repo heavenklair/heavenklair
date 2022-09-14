@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heaven Klair</h1>
 <h3 align="center">A Graduate student at University of California, Berkeley pursuing Master's in Information and Data Science</h3>
-<img align="center" alt="University" width="400" src="[https://www.ischool.berkeley.edu/programs](https://spng.subpng.com/20180405/ohq/kisspng-university-of-california-davis-fire-department-un-gold-seal-5ac60f499ed928.1304920615229294816507.jpg)">
+<img align="center" width="400" src="[https://www.ischool.berkeley.edu/programs](https://spng.subpng.com/20180405/ohq/kisspng-university-of-california-davis-fire-department-un-gold-seal-5ac60f499ed928.1304920615229294816507.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenklair&label=Profile%20views&color=0e75b6&style=flat" alt="heavenklair" /> </p>
 
