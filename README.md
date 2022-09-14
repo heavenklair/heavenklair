@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heaven Klair</h1>
 <h3 align="center">A Graduate student at University of California, Berkeley pursuing Master's in Information and Data Science</h3>
-<img align="right" width="400" src="https://drive.google.com/file/d/1rm4CS76nIWo5tV1MQRwoxUTaaAULI-Us/view?usp=sharing">
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1rm4CS76nIWo5tV1MQRwoxUTaaAULI-Us/view?usp=sharing">
+
+
+![19 x 19 image with grid cells](images/19x19_image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heavenklair&label=Profile%20views&color=0e75b6&style=flat" alt="heavenklair" /> </p>
 
