@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heaven Klair</h1>
 <h3 align="center">A Graduate student at University of California, Berkeley pursuing Master's in Information and Data Science</h3>
 
-- 🔭 I’m actively looking for **job opporutnities in Data Science**
-
-- 🌱 I’m currently learning **object oriented programming in Python**
-
 - 💬 Ask me about **Python, Kubernetes, Docker**
 
 - 📫 How to reach me **https://www.linkedin.com/in/heavenklair/**
